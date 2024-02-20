@@ -1,7 +1,35 @@
-### Hi there 👋
+<h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
+
+### :smiley_cat: I am a Henry graduate.
+
+### So I will give a brief explanation about my knowledge
+### 😄
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+## By the way here are some of my statistics 🚀
+![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=JayroGT&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JayroGT&theme=tokyonight" alt="mystreak"/>
+![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayroGT&theme=tokyonight&layout=compact)
+
+🌱 I'm currently improving my skills and updating myself to give a better experience in my projects.
+
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+## Contact me : 
+📫 [![Gmail Badge](https://img.shields.io/badge/-jayro.esp.sg@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:asthiseta@gmail.com)](jayro.esp.sg@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-jayro_rdk-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/jayro_rdk/)](https://www.instagram.com/jayro_rdk/)
 
 <!--
-**JayroGT/JayroGT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
+<h6 align="center">Made with ❤️ by Me (probably)</h6>
+
+------
+Credit: [AkuraDiary](https://github.com/AkuraDiary)
+
+Last Edited on: 21/08/2021
+
+**AkuraDiary/AkuraDIary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
