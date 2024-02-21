@@ -30,7 +30,6 @@
 
 ## Contact me : 
 📫 [![Gmail Badge](https://img.shields.io/badge/-jayro.esp.sg@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:asthiseta@gmail.com)](jayro.esp.sg@gmail.com)
-
 <!--
 <h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
 <h6 align="center">Made with ❤️ by Me (probably)</h6>
