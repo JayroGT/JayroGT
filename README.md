@@ -1,29 +1,161 @@
-<h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
+<p align="center">
+  <img height="100" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+</p>
+<h1 align="center">Hello There <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30" alt="Hi"></h1>
 
-### :smiley_cat: I am a Henry graduate.
 
-### So I will give a brief explanation about my knowledge
-### 😄
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<br/>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+<br/>
+
+- 👨‍💻 I’m a Full Stack Developer focusing on Front-end. 
+- 🌱 I’m currently working with React, Node.js, and Angular.
+- 💬 Ask me about solving tech problems or tackling new challenges. I’m here to chat!
+- 📫 How to reach me: [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Jayro&amp;color=EA4335&amp;style=flat-square)](mailto:jayro.esp.sg@gmail.com)
+
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</a>
 
 ## By the way here are some of my statistics 🚀
-![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=JayroGT&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JayroGT&theme=tokyonight" alt="mystreak"/>
-![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayroGT&theme=tokyonight&layout=compact)
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=JayroGT&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JayroGT&theme=dark&hide_border=false" /> 
+</td>
 
-🌱 I'm currently improving my skills and updating myself to give a better experience in my projects.
-### 👨‍💻 Languages and Tools
+<td width="50%" align="center">
 
-<br />
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JayroGT&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+
+
+### Tecnologías
+
+**Frontend:**
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://reactjs.org/">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://angular.io/">
+        <img src="https://img.shields.io/badge/Angular-%23212121.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://nextjs.org/">
+        <img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://tailwindcss.com/">
+        <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.javascript.com/">
+        <img src="https://img.shields.io/badge/javascript-%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.typescriptlang.org/">
+        <img src="https://img.shields.io/badge/typescript-%232B8AB0.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://getbootstrap.com/">
+        <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.chartjs.org/">
+        <img src="https://img.shields.io/badge/Chart.js-F5F5F5?style=for-the-badge&logo=chart.js&logoColor=000000" alt="Chart.js" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://jquery.com/">
+        <img src="https://img.shields.io/badge/jquery-%230e76a8.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+**Backend:**
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://nodejs.org/">
+        <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://expressjs.com/">
+        <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.djangoproject.com/">
+        <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.python.org/">
+        <img src="https://img.shields.io/badge/python-%233B4D92.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+**Database:**
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.mongodb.com/">
+        <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.postgresql.org/">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.mysql.com/">
+        <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
