@@ -44,7 +44,6 @@
 
 ### Tecnologías
 
-**Frontend:**
 <table>
   <tr>
     <td align="center">
@@ -72,6 +71,8 @@
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://tailwindcss.com/">
         <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
@@ -104,6 +105,7 @@
     </td>
   </tr>
 </table>
+
 
 **Backend:**
 <table>
