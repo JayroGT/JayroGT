@@ -12,8 +12,8 @@
 
 <br/>
 
-- 👨‍💻 I’m a Full Stack Developer focusing on Front-end. 
-- 🌱 I’m currently working with React, Node.js, and Angular.
+- 👨‍💻 I’m a Full Stack Developer. 
+- 🌱 I’m currently working with React and Ruby on Rails.
 - 💬 Ask me about solving tech problems or tackling new challenges. I’m here to chat!
 - 📫 How to reach me: [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Jayro&amp;color=EA4335&amp;style=flat-square)](mailto:jayro.esp.sg@gmail.com)
 
@@ -71,6 +71,11 @@
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
       </a>
     </td>
+    <td>
+      <a href="https://www.ruby-lang.org/">
+        <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
+      </a>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -116,6 +121,12 @@
       </a>
     </td>
     <td align="center">
+      <a href="https://rubyonrails.org/">
+        <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="Ruby on Rails" />
+      </a>
+    </td>
+    </td>
+    <td align="center">
       <a href="https://expressjs.com/">
         <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
       </a>
@@ -128,6 +139,11 @@
     <td align="center">
       <a href="https://www.python.org/">
         <img src="https://img.shields.io/badge/python-%233B4D92.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.fastify.io/">
+        <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
       </a>
     </td>
   </tr>
@@ -149,6 +165,16 @@
     <td align="center">
       <a href="https://www.mysql.com/">
         <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.sqlite.org/">
+        <img src="https://img.shields.io/badge/SQLite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite3" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.prisma.io/">
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
       </a>
     </td>
   </tr>
