@@ -1,214 +1,157 @@
+<!-- ============================== HEADER ============================== -->
 <p align="center">
-  <img height="100" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=200&section=header&text=Jayro%20Guerrero&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Full%20Stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" alt="Header" />
 </p>
-<h1 align="center">Hello There <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30" alt="Hi"></h1>
 
+<p align="center">
+  <a href="https://github.com/JayroGT">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=800&color=3B82F6&center=true&vCenter=true&width=640&lines=Building+scalable+web+applications+end+to+end;React+%C2%B7+Ruby+on+Rails+%C2%B7+Node.js+%C2%B7+PostgreSQL;Clean+architecture+%7C+API+design+%7C+Product+focus" alt="Typing intro" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="mailto:jayro.esp.sg@gmail.com"><img src="https://img.shields.io/badge/Email-1E3A8A?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <!-- Reemplaza TU_USUARIO / TU_PORTAFOLIO y descomenta:
+  <a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://TU_PORTAFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-1E3A8A?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  -->
+  <img src="https://komarev.com/ghpvc/?username=JayroGT&color=1E3A8A&style=flat-square&label=Profile+views" alt="Profile views" />
+</p>
 
+<p align="center">
+  <a href="#about">About</a> ·
+  <a href="#expertise">Expertise</a> ·
+  <a href="#tech-stack">Tech Stack</a> ·
+  <a href="#featured-work">Featured Work</a> ·
+  <a href="#github-insights">GitHub Insights</a> ·
+  <a href="#contact">Contact</a>
+</p>
+
+---
+
+## About
+
+Full Stack Developer focused on delivering reliable, maintainable software — from data modeling and API design to responsive, user-centered interfaces.
+
+| | |
+|---|---|
+| **Role** | Full Stack Developer |
+| **Core stack** | React · Ruby on Rails · PostgreSQL |
+| **Focus** | Business applications, REST APIs, clean architecture |
+| **Currently** | Building SaaS products for the accounting / fintech domain |
+| **Open to** | Collaborations, freelance projects and full-time opportunities |
+
+---
+
+## Expertise
+
+<details open>
+<summary><b>Frontend engineering</b></summary>
 <br/>
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
 
+- Component-driven SPAs with **React**, **Next.js** and **Angular**
+- Strongly typed codebases with **TypeScript**
+- Design systems and responsive layouts with **Tailwind CSS** and **Bootstrap**
+- Data visualization and dashboards
+
+</details>
+
+<details>
+<summary><b>Backend & APIs</b></summary>
 <br/>
 
-- 👨‍💻 I’m a Full Stack Developer. 
-- 🌱 I’m currently working with React and Ruby on Rails.
-- 💬 Ask me about solving tech problems or tackling new challenges. I’m here to chat!
-- 📫 How to reach me: [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Jayro&amp;color=EA4335&amp;style=flat-square)](mailto:jayro.esp.sg@gmail.com)
+- RESTful APIs with **Ruby on Rails**, **Express**, **Fastify** and **Django**
+- Authentication, authorization and multi-tenant architectures
+- Background jobs, integrations with third-party services
+- Automated testing and code review practices
 
+</details>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</a>
+<details>
+<summary><b>Data & infrastructure</b></summary>
+<br/>
 
-## By the way here are some of my statistics 🚀
+- Relational modeling with **PostgreSQL** and **MySQL**
+- Document stores with **MongoDB**
+- ORMs: **ActiveRecord**, **Prisma**
+- Version control and collaborative workflows with **Git** / **GitHub**
+
+</details>
+
+---
+
+## Tech Stack
+
 <table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=JayroGT&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JayroGT&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JayroGT&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-
-
-
-### Tecnologías
-
-<table>
   <tr>
-    <td align="center">
-      <a href="https://reactjs.org/">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://angular.io/">
-        <img src="https://img.shields.io/badge/Angular-%23212121.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://nextjs.org/">
-        <img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.ruby-lang.org/">
-        <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
-      </a>
-    </td>
+    <td align="center" width="140"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,html,css,tailwind,bootstrap&perline=9" alt="Frontend" /></td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://tailwindcss.com/">
-        <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.javascript.com/">
-        <img src="https://img.shields.io/badge/javascript-%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.typescriptlang.org/">
-        <img src="https://img.shields.io/badge/typescript-%232B8AB0.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://getbootstrap.com/">
-        <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.chartjs.org/">
-        <img src="https://img.shields.io/badge/Chart.js-F5F5F5?style=for-the-badge&logo=chart.js&logoColor=000000" alt="Chart.js" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://jquery.com/">
-        <img src="https://img.shields.io/badge/jquery-%230e76a8.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
-      </a>
-    </td>
+    <td align="center"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ruby,rails,nodejs,express,python,django&perline=9" alt="Backend" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,prisma&perline=9" alt="Databases" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tooling</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux&perline=9" alt="Tools" /></td>
   </tr>
 </table>
 
+---
 
-**Backend:**
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://nodejs.org/">
-        <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://rubyonrails.org/">
-        <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="Ruby on Rails" />
-      </a>
-    </td>
-    </td>
-    <td align="center">
-      <a href="https://expressjs.com/">
-        <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.djangoproject.com/">
-        <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.python.org/">
-        <img src="https://img.shields.io/badge/python-%233B4D92.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.fastify.io/">
-        <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
-      </a>
-    </td>
-  </tr>
-</table>
+## Featured Work
 
-**Database:**
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.mongodb.com/">
-        <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.postgresql.org/">
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.mysql.com/">
-        <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.sqlite.org/">
-        <img src="https://img.shields.io/badge/SQLite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite3" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.prisma.io/">
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-## Contact me : 
-📫 [![Gmail Badge](https://img.shields.io/badge/-jayro.esp.sg@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:asthiseta@gmail.com)](jayro.esp.sg@gmail.com)
-<!--
-<h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
-<h6 align="center">Made with ❤️ by Me (probably)</h6>
-
-------
-Credit: [AkuraDiary](https://github.com/AkuraDiary)
-
-Last Edited on: 21/08/2021
-
-**AkuraDiary/AkuraDIary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- Reemplaza NOMBRE_REPO por tus repos públicos y descomenta:
+<p align="center">
+  <a href="https://github.com/JayroGT/NOMBRE_REPO_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JayroGT&repo=NOMBRE_REPO_1&bg_color=0F172A&title_color=60A5FA&icon_color=60A5FA&text_color=CBD5E1&hide_border=true" alt="Repo 1" />
+  </a>
+  <a href="https://github.com/JayroGT/NOMBRE_REPO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JayroGT&repo=NOMBRE_REPO_2&bg_color=0F172A&title_color=60A5FA&icon_color=60A5FA&text_color=CBD5E1&hide_border=true" alt="Repo 2" />
+  </a>
+</p>
 -->
+
+| Project | Description | Stack |
+|---|---|---|
+| **Accounting SaaS Platform** | Multi-tenant platform for accounting firms: client management, document review queues and team permissions. | Rails · React · PostgreSQL |
+| _Your next project_ | _Short, outcome-oriented description._ | _Stack_ |
+
+---
+
+## GitHub Insights
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JayroGT&show_icons=true&count_private=true&include_all_commits=true&bg_color=0F172A&title_color=60A5FA&icon_color=60A5FA&text_color=CBD5E1&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayroGT&layout=compact&langs_count=8&bg_color=0F172A&title_color=60A5FA&text_color=CBD5E1&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=JayroGT&background=0F172A&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8&stroke=1E293B&hide_border=true" alt="GitHub streak" />
+</p>
+
+<details>
+<summary><b>Contribution activity graph</b></summary>
+<br/>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JayroGT&bg_color=0F172A&color=CBD5E1&line=3B82F6&point=60A5FA&area=true&area_color=1E3A8A&hide_border=true" alt="Activity graph" />
+</p>
+</details>
+
+---
+
+## Contact
+
+I'm always open to discussing new projects, technical challenges or opportunities.
+
+<p>
+  <a href="mailto:jayro.esp.sg@gmail.com"><img src="https://img.shields.io/badge/Get_in_touch-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch" /></a>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0F172A&height=110&section=footer" alt="Footer" />
+</p>
