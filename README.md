@@ -1,157 +1,162 @@
 <!-- ============================== HEADER ============================== -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=200&section=header&text=Jayro%20Guerrero&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Full%20Stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" alt="Header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:4F46E5,100:06B6D4&height=230&section=header&text=Hi,%20I'm%20Jayro&fontSize=56&fontColor=FFFFFF&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20Ruby%20on%20Rails&descSize=18&descAlignY=58&animation=twinkling" alt="Header" />
 </p>
 
 <p align="center">
   <a href="https://github.com/JayroGT">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=800&color=3B82F6&center=true&vCenter=true&width=640&lines=Building+scalable+web+applications+end+to+end;React+%C2%B7+Ruby+on+Rails+%C2%B7+Node.js+%C2%B7+PostgreSQL;Clean+architecture+%7C+API+design+%7C+Product+focus" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=700&color=BF91F3&center=true&vCenter=true&random=false&width=700&lines=%F0%9F%9A%80+Turning+ideas+into+real+products;%E2%9A%9B%EF%B8%8F+React+%2B+%F0%9F%92%8E+Ruby+on+Rails+%3D+%E2%9D%A4%EF%B8%8F;%F0%9F%A7%A0+Clean+code+%7C+Solid+APIs+%7C+Great+UX;%E2%98%95+Powered+by+coffee+and+curiosity" alt="Typing intro" />
   </a>
 </p>
 
 <p align="center">
-  <a href="mailto:jayro.esp.sg@gmail.com"><img src="https://img.shields.io/badge/Email-1E3A8A?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:jayro.esp.sg@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <!-- Reemplaza TU_USUARIO / TU_PORTAFOLIO y descomenta:
-  <a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://TU_PORTAFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-1E3A8A?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://TU_PORTAFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   -->
-  <img src="https://komarev.com/ghpvc/?username=JayroGT&color=1E3A8A&style=flat-square&label=Profile+views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=JayroGT&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 <p align="center">
-  <a href="#about">About</a> ·
-  <a href="#expertise">Expertise</a> ·
-  <a href="#tech-stack">Tech Stack</a> ·
-  <a href="#featured-work">Featured Work</a> ·
-  <a href="#github-insights">GitHub Insights</a> ·
-  <a href="#contact">Contact</a>
+  <a href="#-about-me">About</a> •
+  <a href="#%EF%B8%8F-tech-stack">Tech Stack</a> •
+  <a href="#-featured-work">Projects</a> •
+  <a href="#-github-insights">Stats</a> •
+  <a href="#-coffee-break">Coffee Break</a> •
+  <a href="#-lets-connect">Contact</a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## About
+## 👨‍💻 About Me
 
-Full Stack Developer focused on delivering reliable, maintainable software — from data modeling and API design to responsive, user-centered interfaces.
+<img align="right" width="380" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding" />
 
-| | |
-|---|---|
-| **Role** | Full Stack Developer |
-| **Core stack** | React · Ruby on Rails · PostgreSQL |
-| **Focus** | Business applications, REST APIs, clean architecture |
-| **Currently** | Building SaaS products for the accounting / fintech domain |
-| **Open to** | Collaborations, freelance projects and full-time opportunities |
+I build **web applications from end to end** — from database design and solid APIs to fast, polished interfaces that people actually enjoy using.
 
----
+- 🔭 Currently building a **SaaS platform for accounting firms**
+- ⚛️ Working daily with **React** and **Ruby on Rails**
+- 🌱 Exploring clean architecture, automation and DX
+- 🤝 Open to **collaborations, freelance and full-time roles**
+- 💬 Ask me about **APIs, React, Rails or tricky bugs**
+- ⚡ Fun fact: I debug better after the second coffee ☕
 
-## Expertise
+<br clear="right" />
 
-<details open>
-<summary><b>Frontend engineering</b></summary>
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-- Component-driven SPAs with **React**, **Next.js** and **Angular**
-- Strongly typed codebases with **TypeScript**
-- Design systems and responsive layouts with **Tailwind CSS** and **Bootstrap**
-- Data visualization and dashboards
+## 🛠️ Tech Stack
 
-</details>
+<p align="center">
+  <b>🎨 Frontend</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,html,css,tailwind,bootstrap&theme=dark" alt="Frontend" />
+</p>
 
-<details>
-<summary><b>Backend & APIs</b></summary>
-<br/>
+<p align="center">
+  <b>⚙️ Backend</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=ruby,rails,nodejs,express,python,django&theme=dark" alt="Backend" />
+</p>
 
-- RESTful APIs with **Ruby on Rails**, **Express**, **Fastify** and **Django**
-- Authentication, authorization and multi-tenant architectures
-- Background jobs, integrations with third-party services
-- Automated testing and code review practices
+<p align="center">
+  <b>🗄️ Data</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,prisma&theme=dark" alt="Databases" />
+</p>
 
-</details>
+<p align="center">
+  <b>🧰 Tooling</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux&theme=dark" alt="Tools" />
+</p>
 
-<details>
-<summary><b>Data & infrastructure</b></summary>
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-- Relational modeling with **PostgreSQL** and **MySQL**
-- Document stores with **MongoDB**
-- ORMs: **ActiveRecord**, **Prisma**
-- Version control and collaborative workflows with **Git** / **GitHub**
-
-</details>
-
----
-
-## Tech Stack
-
-<table align="center">
-  <tr>
-    <td align="center" width="140"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,html,css,tailwind,bootstrap&perline=9" alt="Frontend" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=ruby,rails,nodejs,express,python,django&perline=9" alt="Backend" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Data</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,prisma&perline=9" alt="Databases" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Tooling</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux&perline=9" alt="Tools" /></td>
-  </tr>
-</table>
-
----
-
-## Featured Work
+## 🚀 Featured Work
 
 <!-- Reemplaza NOMBRE_REPO por tus repos públicos y descomenta:
 <p align="center">
-  <a href="https://github.com/JayroGT/NOMBRE_REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JayroGT&repo=NOMBRE_REPO_1&bg_color=0F172A&title_color=60A5FA&icon_color=60A5FA&text_color=CBD5E1&hide_border=true" alt="Repo 1" />
-  </a>
-  <a href="https://github.com/JayroGT/NOMBRE_REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JayroGT&repo=NOMBRE_REPO_2&bg_color=0F172A&title_color=60A5FA&icon_color=60A5FA&text_color=CBD5E1&hide_border=true" alt="Repo 2" />
-  </a>
+  <a href="https://github.com/JayroGT/NOMBRE_REPO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JayroGT&repo=NOMBRE_REPO_1&theme=tokyonight&hide_border=true" alt="Repo 1" /></a>
+  <a href="https://github.com/JayroGT/NOMBRE_REPO_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JayroGT&repo=NOMBRE_REPO_2&theme=tokyonight&hide_border=true" alt="Repo 2" /></a>
 </p>
 -->
 
-| Project | Description | Stack |
-|---|---|---|
-| **Accounting SaaS Platform** | Multi-tenant platform for accounting firms: client management, document review queues and team permissions. | Rails · React · PostgreSQL |
-| _Your next project_ | _Short, outcome-oriented description._ | _Stack_ |
+| | Project | What it does | Stack |
+|:-:|---|---|---|
+| 📊 | **Accounting SaaS Platform** | Multi-tenant platform for accounting firms: client management, document review queues and team permissions. | ![Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| ✨ | _Your next project_ | _Short, outcome-oriented description._ | _Stack_ |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## GitHub Insights
+## 📈 GitHub Insights
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JayroGT&show_icons=true&count_private=true&include_all_commits=true&bg_color=0F172A&title_color=60A5FA&icon_color=60A5FA&text_color=CBD5E1&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayroGT&layout=compact&langs_count=8&bg_color=0F172A&title_color=60A5FA&text_color=CBD5E1&hide_border=true" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JayroGT&theme=tokyonight" width="100%" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=JayroGT&background=0F172A&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8&stroke=1E293B&hide_border=true" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JayroGT&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayroGT&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=JayroGT&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JayroGT&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub trophies" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JayroGT&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JayroGT/JayroGT/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JayroGT/JayroGT/output/github-snake.svg" />
+    <img width="100%" alt="Snake eating my contributions" src="https://raw.githubusercontent.com/JayroGT/JayroGT/output/github-snake.svg" />
+  </picture>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+## ☕ Coffee Break
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=false" alt="Random dev quote" />
 </p>
 
 <details>
-<summary><b>Contribution activity graph</b></summary>
+<summary><b>😂 Need a laugh? Click for a random dev joke</b></summary>
 <br/>
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JayroGT&bg_color=0F172A&color=CBD5E1&line=3B82F6&point=60A5FA&area=true&area_color=1E3A8A&hide_border=true" alt="Activity graph" />
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%231A1B27&textColor=%23A9FEF7&aColor=%23BF91F3&borderColor=%237F00FF&hideBorder=true" alt="Random dev joke" />
 </p>
+<p align="center"><sub>Refresh the page for a new one 🔄</sub></p>
 </details>
 
----
+<details>
+<summary><b>🎲 Fun facts about me</b></summary>
+<br/>
 
-## Contact
+- ☕ My code runs on coffee — and occasionally on tests
+- 🐛 Favorite bug: the one that only appears in production
+- 💡 The best code is the code you don't have to write
+- 🎯 Currently chasing inbox (and backlog) zero
 
-I'm always open to discussing new projects, technical challenges or opportunities.
+</details>
 
-<p>
-  <a href="mailto:jayro.esp.sg@gmail.com"><img src="https://img.shields.io/badge/Get_in_touch-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch" /></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Got+a+project+in+mind%3F;Let's+build+something+great+together!+%F0%9F%9A%80" alt="Let's connect" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0F172A&height=110&section=footer" alt="Footer" />
+  <a href="mailto:jayro.esp.sg@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-7F00FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Say hello" /></a>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:4F46E5,100:7F00FF&height=130&section=footer&animation=twinkling" alt="Footer" />
 </p>
